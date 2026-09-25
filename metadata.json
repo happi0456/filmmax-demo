@@ -1,0 +1,6 @@
+{
+  "name": "FILM-MAX — Film Production Management System",
+  "description": "Sleek SaaS platform for film production logistics, scene resource aggregation, role-based access control, and real-time conflict detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
